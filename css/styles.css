@@ -530,6 +530,7 @@ background-color: #4d5ae5;
 .modal-form-button-close:focus {
     background-color: #404bbf;
     border: none;
+    fill: #ffffff;
 }
 .modal-form {
     display: flex;
