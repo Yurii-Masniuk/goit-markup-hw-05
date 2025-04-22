@@ -632,9 +632,5 @@ textarea {
     align-items: center;
     fill: transparent;
 }
-.privacy-police {
-    background-color: #404bbf;
-    border: none;
-    fill: #f4f4fd;
-}
+
 /* #endregion modal */
