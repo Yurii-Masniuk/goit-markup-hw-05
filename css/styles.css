@@ -618,7 +618,7 @@ textarea {
     letter-spacing: 0.04em;
     color: #8e8f99;
 }
-.privacy-police {
+.privacy-policy {
     width: 16px;
     height: 16px;
     border: 1px solid rgba(46, 47, 66, 0.4);
@@ -632,13 +632,13 @@ textarea {
     align-items: center;
     fill: transparent;
 }
-.modal-privacy-input:checked+.modal-privacy-label .privacy-police {
+.modal-privacy-input:checked+.modal-privacy-label .privacy-policy {
     background-color: #404bbf;
     border: none;
     fill: #f4f4fd;
 }
 
-.privacy-police-link {
+.privacy-policy-link {
     color: #4d5ae5;
 }
 /* #endregion modal */
