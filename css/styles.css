@@ -508,6 +508,10 @@ background-color: #4d5ae5;
     border-radius: 4px;
 
 }
+.icon-footer {
+    fill: #ffffff;
+    margin-left: 16px;
+}
 /* #endregion footer */
 
 /* #region modal */
