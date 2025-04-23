@@ -646,7 +646,7 @@ textarea {
     border: none;
     border-radius: 4px;
     padding: 16px 32px;
-    width: 169px;
+    min-width: 169px;
     height: 56px;
     font-size: 16px;
     font-weight: 500;
